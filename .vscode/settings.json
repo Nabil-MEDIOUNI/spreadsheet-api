@@ -1,0 +1,15 @@
+{
+    "editor.tabSize": 2,
+    "editor.fontFamily": "'Fira Code', 'Roboto Mono', Consolas",
+    "editor.fontLigatures": true,
+    "editor.fontSize": 14,
+    "files.eol": "\n",
+    "eslint.autoFixOnSave": true,
+    "prettier.singleQuote": true,
+    "prettier.trailingComma": "all",
+    "prettier.jsxSingleQuote": false,
+    "editor.codeActionsOnSave": {
+        "source.fixAll.eslint": true
+    }
+}
+
